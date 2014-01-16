@@ -21,11 +21,11 @@ inputs (signals A, B, and C).
 
 ### Lab Results and Analysis
 
-The above diagram was used to produce the following boolean equation:
+The above diagram was used to produce the following boolean equation
 
     *AB' + BC = F*
     
-and the corresponding truth table:
+and the corresponding truth table
 
     | A | B | C || F |
     |:-:|:-:|:-:||:-:|
