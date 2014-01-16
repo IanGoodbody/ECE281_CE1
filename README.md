@@ -13,7 +13,7 @@ simulated and tested in the software to provide a proof of concept.
 
 The schematic for the three-input, four-gate digital circuit that was simulated in VHDL is given below: 
 
-![alt text](https://github.com/IanGoodbody/ECE281_CE1/blob/master/Circuit.JPG "Digital Circuit Schematic")
+![alt text](https://raw2.github.com/IanGoodbody/ECE281_CE1/master/Circuit.JPG "Digital Circuit Schematic")
 
 The circuit was simulated using VHDL code in the Xilinx ISE Design Suite. The same software was later
 used to simulate and record the output of the circuit (signal F) for all combinations of the three 
@@ -43,5 +43,5 @@ were changed every 100 ns in decending order on the above truth table, 1 represe
 signal and 0 representing LOW. The output values, shown in the bottom row of the truth table,
 corresponded with those in the truth table. 
 
-![alt text](https://github.com/IanGoodbody/ECE281_CE1/blob/master/Signal.JPG "Digital Signals")
+![alt text](https://raw2.github.com/IanGoodbody/ECE281_CE1/master/Signal.JPG "Digital Signals")
 
