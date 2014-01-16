@@ -23,7 +23,7 @@ inputs (signals A, B, and C).
 
 The above diagram was used to produce the following boolean equation
 
-    *AB' + BC = F*
+    AB' + BC = F
     
 and the corresponding truth table
 
