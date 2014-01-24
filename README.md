@@ -27,16 +27,16 @@ The above diagram was used to produce the following boolean equation
     
 and the corresponding truth table
 
-    | A | B | C || F |
-    |:-:|:-:|:-:||:-:|
-    | 0 | 0 | 0 || 0 |
-    | 0 | 0 | 1 || 0 |
-    | 0 | 1 | 0 || 0 |
-    | 0 | 1 | 1 || 1 |
-    | 1 | 0 | 0 || 1 |
-    | 1 | 0 | 1 || 1 |
-    | 1 | 1 | 0 || 0 |
-    | 1 | 1 | 1 || 1 |
+| A | B | C | F |
+|:-:|:-:|:-:|:-:|
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
     
 This equation and truth tables were modeled in the two VDHL files provided. The input signals
 were changed every 100 ns in decending order on the above truth table, 1 representing a HIGH
